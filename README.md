@@ -20,7 +20,7 @@ Analysis (PCA), compared with scikit-learn's Logistic Regression with L1 and L2 
 MLP classifier 
 
 3. Used the existing VGG16 model in Pytorch (pretrained on ImageNet) on the FASHION MNIST dataset and fine tuned it by freezing lower layers
-and replacing upper layers with dense layers.Plotted graphs and results using WandB.
+and replacing upper layers with dense layers. Plotted graphs and results using WandB.
 
 4. Visualized Convolution layers of VGG16.
 
